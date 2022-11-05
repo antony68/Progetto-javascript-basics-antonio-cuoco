@@ -5,7 +5,4 @@
 
 questo progetto è diviso in due pagine la prima pagina che è questa:
 
-<img href="https://github.com/antony68/Progetto-javascript-basics-antonio-cuoco/blob/main/images/Cattura%201.PNG"></img>
-
-
-
+![Cattura 1](https://user-images.githubusercontent.com/30431200/200117373-af132631-fbbc-4ce8-9054-b6338881b09b.PNG)
