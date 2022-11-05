@@ -5,6 +5,7 @@
 
 questo progetto è diviso in due pagine la prima pagina che è questa:
 
+<img href=""></img>
 
 
 
