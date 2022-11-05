@@ -1,6 +1,6 @@
 # Progetto-javascript-basics-antonio-cuoco
 ## Progetto counter realizzato utilizzando html,css e js e scritto da antonio cuoco
-
+link per vedere il progetto funzionante: https://antonio-cuoco-javascript-project.netlify.app/
 ## Spiegazione del progetto
 
 questo progetto è diviso in due pagine la prima pagina che è questa:
