@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Counter</title>
+</head>
+<body>
+   <div class="context">
+      <h1>PROGETTO COUNTER</h1>
+      <p>by antonio cuoco</p>
+  </div>
+
+
+<div class="area">
+          <ul class="circles">
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+          </ul>
+  </div >
+
+<div class="general-container" id="general-container">
+   <div class="container">
+    <h1 class="title-container"> Progetto Counter </h1>
+    <div class="value" id="value">0</div>
+    <div class="container-btn">
+       <button class="btnUp" id="btn-go-up" type="submit" value="1">+</button>
+       <button class="btnGoDown" id="btn-go-down" value="-1">-</button>
+       <button class="reset" value="0">reset</button>
+    </div>
+    <div class="container-btn">
+      <button class="btnGoUp2" id="btn-go-up2" type="submit" value="2">+2</button>
+      <button class="btnGoUp5" id="btn-go-up5" value="5">+5</button>
+      <button class="btnGoDown2" value = "-2">-2</button>
+      <button class="btnGoDown5" value="-5">-5</button>
+    </div>
+    <p class="color">colore attuale: <span class="actual-color"></span> <br> PS. il tasto reset attiva una funzione che cambia colore</p>
+     
+   </div> 
+</div>  
+
+
+<script src="javascript/counter.js"></script>
+<script src="javascript/random-color.js"></script>
+</body>
+</html>
